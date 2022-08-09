@@ -1,0 +1,90 @@
+Expression = values + operators
+
+Recap:
+ - IDLE is an editor
+ - Interactive Shell (>>>) & File Editor
+ - Expressions = Values + Operators
+ - int, Float, String
+ - 'Hello World'
+ - Spam = 42
+ - Spam + 1
+
+"The Execution"=which instruction is being currently executed
+
+Functions are mini-program in your proogram
+
+values passed to functions = Arguments  
+
+Recap:
+ - Type programs into the file editor
+ - The execution starts at the top and moves down 
+ - #Comments are ignored by python
+ - Functions are mini-programs in your program
+ - print() lets user type in a value
+ - len() takes a string value and returns an integer value 
+   of the string's length
+ - int(), str(), and float() convert values' data type
+
+############################################################
+Recap:
+- Boolean Data Type: True, False 
+- Comparison Operators: ==, !=, <, >, <=, >=
+- == is comparison, = is assignment 
+- Boolean Operaors: and, or, not
+
+++++++++++++
+FLOW CONTROL
+++++++++++++ 
+
+Recap:
+- An if statement can be used to conditionnally execute code, depending
+  on whether or not an if statement's condition is True or False.
+- An elif (that is, "else is") statement can follow an if statement.
+  Its block executes if its condition is True and all previous conditions
+  have been False.
+- An else statement comes at the end. Its block is executed if all the 
+  previous conditions have been False.
+- The values 0, 0.0, and rhe empty string are considered to be Falsey 
+  Values. When used in conditions they are considered False. You can
+  always see for yourself which values are Truthy or Falsey by passing
+  them to the bool() functiion.
+
+Recap:
+ - Type programs into the file editor
+ - The execution starts at the top and moves down 
+ - #Comments are ignored by python
+ - Functions are mini-programs in your program
+ - print() lets user type in a value
+ - len() takes a string value and returns an integer value 
+   of the string's length
+ - int(), str(), and float() convert values' data type
+
+Recap:
+- When the execution reaches the end of the a while statement's block,
+  it jumps back to the start to re-check the condition.
+- Press Ctrl-C to interrupt an infinite loop.
+- A break statement causes the execution to immediately leave the loop,
+  without re-checking the condition.
+- A continue statement causes the execution to immediately jump back to
+  the start of the loop and re-check the condition.
+
+Recap:
+- for loops will loop a specific number of times.
+- The range() function called with one, two, or three arguments.
+- break and continue can be used in for loops.
+
+###########################################################
++++++++++
+FUNCTIONS 
++++++++++
+Recap:
+- You can import modules and get access to new functions.
+- The module that comes with the Python are called the standard library,
+  but you can also install third-party modules using the pip tool.
+- The sys.exit() function will immediately quit your program.
+- The pyperclip third-party module has copy() and paste() functions for reading
+  and writing text to the clipboard.  
+
+
+
+
